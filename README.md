@@ -1,6 +1,5 @@
 # Project-RecommendationSystem
 
-# Recommendation System - Febby Ariyanti Herdiana
 
 ## Project Overview
 
